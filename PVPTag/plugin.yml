@@ -1,0 +1,8 @@
+name: PVPTag
+main: me.exrider.TagMain
+version: 0.0.1
+author: Felnstaren
+description: Custom plugin built for DivinityCraft... divinitycraft.org, takes away tp in pvp.
+api-version: 1.14
+
+commands:
